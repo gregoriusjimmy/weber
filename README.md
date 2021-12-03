@@ -1,6 +1,6 @@
 # Weber 
 
-In physics, [Weber (Wb)](https://en.wikipedia.org/wiki/Weber_(unit)) is the SI derived unit of magnetic flux. This project is initiated philosophically like a magnetic surface for [nodeflux.io](https://nodeflux.io) to engage potential users ogr parters interactively by experiencing nodeflux's analytics and solution through web browser. Currently, Weber provides demonstrations and trials for some nodeflux analytics, solautions, and new innovations. 
+In physics, [Weber (Wb)](https://en.wikipedia.org/wiki/Weber_(unit)) is the SI derived unit of magnetic flux. This project is initiated philosophically like a magnetic surface for [nodeflux.io](https://nodeflux.io) to engage potential users ogr parters interactively by expeariencing nodeflux's analytics and solution through web browser. Currently, Weber provides demonstrations and trials for some nodeflux analytics, solautions, and new innovations. 
 
 ## Getting started
 
